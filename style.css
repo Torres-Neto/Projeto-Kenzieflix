@@ -8,7 +8,7 @@ main {
 .container {
     font-family: 'IBM Plex Sans', sans-serif;
     font-family: 'Inter', sans-serif;
-    width: 1280px;
+    max-width: 1280px;
     height: 720px;
     background: #121214;
     color: white;
